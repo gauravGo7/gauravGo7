@@ -1,4 +1,4 @@
-<pre align="center"  > <b>  This is Gaurav!</b>♀️ </pre>
+<pre align="center"  > <b>  This is Gaurav!</b> </pre>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=gauravGo7&style=circle&color=red" alt="views"/></div>
 <br>
 <br>

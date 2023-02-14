@@ -2,7 +2,7 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=gauravGo7&style=circle&color=red" alt="views"/></div>
 <br>
 <br>
-<p align="center"><a href="#"><img height = "250" width="400px"alt="Hello, I'm Gaurav, I do open source!" src="https://cloud-9gtzhm4z6-hack-club-bot.vercel.app/0girl-pixel.gif" /></a></p>
+<p align="center"><a href="#"><img height = "250" width="400px"alt="Hello, I'm Gaurav, I do open source!" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /></a></p>
 
 <h1 align="center">
   <a href="#">
@@ -33,11 +33,10 @@
 
 ### 👩‍💻 Languages and Tools
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/css.png"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/html.png"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/javascript.png"></code>
 
 
 <!-- End here -->

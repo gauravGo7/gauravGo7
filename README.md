@@ -130,7 +130,7 @@
 
 
 
-<!-- end here -->
+<!-- End here -->
 
 <!-- Spotify Playing start here -->
 <!-- ### Spotify Playing 🎧

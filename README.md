@@ -2,7 +2,7 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=gauravGo7&style=circle&color=red" alt="views"/></div>
 <br>
 <br>
-<p align="center"><a href="#"><img height = "250" width="400px"alt="Hello, I'm Gaurav, I do open source!" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /></a></p>
+<p align="center"><a href="#"><img height = "250" width="400px"alt="Hello, I'm Gaurav, I do open source!" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" /></a></p>
 
 <h1 align="center">
   <a href="#">
